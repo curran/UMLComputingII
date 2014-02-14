@@ -19,3 +19,11 @@ To compile and run your code, say `main.c`, use the following commands:
 
     gcc main.c
     ./a.out
+
+To compile and link multiple files, like you need to do in your assignment, use a command like this:
+
+    gcc main.c mystring.c
+
+These standard compiler flags are recommended:
+
+    gcc main.c -Wall -std=c99
