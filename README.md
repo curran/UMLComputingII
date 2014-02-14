@@ -12,3 +12,10 @@ Your first real assignment, due 2/20 by midnight, submitted to `curran_kelleher@
    * mystring.c
    * demo.c or main.c - tests some of the function
    * tests.c - based on the texts.c from IntArray, modified to test the MyString functions
+
+## C Reference
+
+To compile and run your code, say `main.c`, use the following commands:
+
+    gcc main.c
+    ./a.out
