@@ -242,7 +242,7 @@ MyString_Status mystring_push(MYSTRING hString, char ch);
  *
  *   If the string object has size 0, a null character ('\0') is returned.
  */
-MyString_Status mystring_pop(MYSTRING hString);
+char mystring_pop(MYSTRING hString);
 
 
 /**
@@ -259,6 +259,6 @@ MyString_Status mystring_pop(MYSTRING hString);
  *
  *   In either case, the string object is not modified in any way.
  */
-MyString_Status mystring_peek(MYSTRING hString);
+char mystring_peek(MYSTRING hString);
 
 #endif /* MYSTRING */
