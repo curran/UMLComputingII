@@ -5,7 +5,11 @@ Resources for the course Computing II at UMass Lowell (Spring 2014).
 
 ## For Students
 
-Your first real assignment, due 2/20 by midnight, submitted from your UML CS account using the command `submit ckellehe mystring-ut mystring.c tests.c`, is a complete implementation of your MyString module, using the API definition found in `mystring.h`. You can use the `IntArray` module and unit tests provided by Derrell Lipman as an example of how to organize your code.
+Due 3/28:
+
+ * Complete MyString implementation based on [mystring.h](https://github.com/curran/UMLComputingII/blob/master/mystring.h)
+ * Running unit tests based on [Derrell's framework](https://github.com/curran/UMLComputingII/tree/master/mystring-unit-test)
+ * Will email over Spring Break with details on how to submit
 
 ## C Reference
 
