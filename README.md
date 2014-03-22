@@ -21,7 +21,7 @@ Submit from your CS account using this command:
 
 Grading criteria:
 
- * -20 points for each day late
+ * -20 points for each day late (better to just submit whatever you have on 3/28)
  * 15 points - the code compiles and the tests run (show me in person during 3/28 lab)
  * 5 points for each of the following (3 points for implementation, 2 points for unit test)
    * mystring_init_default
