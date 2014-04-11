@@ -5,6 +5,8 @@ Resources for the course Computing II at UMass Lowell (Spring 2014).
 
 ## For Students
 
+# [Evil Hangman Assignment](https://docs.google.com/document/d/1XJ7gZ4U6IDfyonjDS6TauUfINLDGckQVR9t5aDrEflw/edit)
+
 # MyString Module Submission Due 3/28:
 
  * Complete MyString implementation based on [mystring.h](https://github.com/curran/UMLComputingII/blob/master/mystring.h)
